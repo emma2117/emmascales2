@@ -1,0 +1,46 @@
+---
+layout: page
+title: Portfolio
+permalink: /portfolio/
+---
+
+<p> Click on the thumbnails to view full-size image. If you're interested in commissioning a logo, flyer, album or book cover, graphical abstract, etc., don't hesitate to <a href = "mailto:eks88@cornell.edu?subject=Graphic%20to%20design%20commission%20inquiry">shoot me an email! </p>
+<p> <strong>Please note that all images included on this site are subject to copyright under <a href = "/_pages/LICENSE-IMAGES.md">creative commons</a> </strong>. If you would like permission to license any of these images for re-use or re-publication, you need to <a href = "mailto:eks88@cornell.edu?subject=Permission%20to%20re-use%20your%20graphic%20design%20work">reach out to me</a>. 
+
+<h4> Logos & branding </h4>
+
+{% assign filenames = "IS_logo_UPD.png,IS_logo.png,IDT_logo_color_transparent.png" | split: "," %}
+<div class ="image-gallery">
+{% for name in filenames %}
+    <div class="box">
+    <a href="{{ site.imagesurl }}{{ name }}">
+      <img src="{{ site.thumbsurl }}{{ name }} " alt="{{ name }}"  class="img-gallery" />
+     </a>
+    </div>
+ {% endfor %}
+</div>
+
+<h4> Illustrations used to communicate my own science </h4>
+{% assign filenames = "fungal_phyla.png,updated_graphhyp.png,symbiotic.png" | split: "," %}
+<div class ="image-gallery">
+{% for name in filenames %}
+    <div class="box">
+    <a href="{{ site.imagesurl }}{{ name }}">
+      <img src="{{ site.thumbsurl }}{{ name }} " alt="{{ name }}"  class="img-gallery" />
+     </a>
+    </div>
+ {% endfor %}
+</div>
+
+<h4> Promotional materials </h4>
+
+{% assign filenames = "PPPMB-shirt.png,2021_FM.png,2023_FM.png,2024_FM.png,2025_FM.png,2026_FM.png,album-cover.png,pet-maus.png,those-things.png,podcast.png,scifascismblog.png,header.png" | split: "," %}
+<div class ="image-gallery">
+{% for name in filenames %}
+    <div class="box">
+    <a href="{{ site.imagesurl }}{{ name }}">
+      <img src="{{ site.thumbsurl }}{{ name }} " alt="{{ name }}"  class="img-gallery" />
+     </a>
+    </div>
+ {% endfor %}
+</div>

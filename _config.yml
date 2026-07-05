@@ -18,21 +18,48 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: Emma Scales
+email: eks88@cornell.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Emma Scales is a fungal biologist/microbiologist, graphic designer, and science advocate. As a Ph.D. candidate at Cornell University, she researches the molecular underpinnings of symbioses in fungi and bacteria.
 # baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+
+github_username:  emma2117
+linkedin_username: emma-scales-5aa297217
+
+imagesurl: "/img/"
+thumbsurl: "/thumbs/"
+
+#fonts
+fonts:
+  use_google_fonts: true # if true will use external google_fonts url below
+  preconnect_urls:
+    - https://fonts.gstatic.com
+  google_fonts_url: "https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Fraunces:ital,opsz,wght@0,9..144,100..900;1,9..144,100..900&display=swap"
+  use_self_hosted_fonts: false # font files must be placed in /assets/fonts folder and the @font-face definitions must be added to /assets/css/fonts.css if true
+  heading: "Fraunces"
+  base: "DM-Sans"
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+
+#nav bar 
+header_pages:
+  - _pages/about.html
+  - _pages/cv.html
+  - _pages/press.html
+  - _pages/Blog.html
+  - _pages/portfolio.html
+
+# Get pages to actually show up: 
+include:
+  - _pages
+  - _images
+  - _includes
+  - _layouts
 
 # Exclude from processing.
 # The following items will not be processed, by default.
