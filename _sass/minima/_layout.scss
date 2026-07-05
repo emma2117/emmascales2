@@ -107,8 +107,8 @@
 
     .page-link {
       display: block;
+      line-height: $base-line-height * 1.5;
       padding: 4px 4px;
-
       &:not(:last-child) {
         margin-right: 0;
       }
