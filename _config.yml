@@ -20,8 +20,7 @@
 
 title: Emma Scales
 email: eks88@cornell.edu
-description: >- # this means to ignore newlines until "baseurl:"
-  Emma Scales is a fungal biologist/microbiologist, graphic designer, and science advocate. As a Ph.D. candidate at Cornell University, she researches the molecular underpinnings of symbioses in fungi and bacteria.
+description: Emma Scales is a fungal biologist/microbiologist, graphic designer, and science advocate. As a Ph.D. candidate at Cornell University, she researches the molecular underpinnings of symbioses in fungi and bacteria.
 # baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
