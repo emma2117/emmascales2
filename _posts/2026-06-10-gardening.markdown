@@ -4,7 +4,7 @@ title:  "For the love of gardening (& writing about it)"
 date:   2026-03-24 17:08:47 -0400
 categories: Personal
 ---
-![Image](/_images/gardening.JPG)
+![Image](/_images/garden.JPG)
 
 *Image is a detail from a gouache painting I made in 2021.* 
 <p>OOoo gardening, what an original thing to write about. But it’s a popular subject for a reason! There’s something so—as far as we know—human about the attempt to communicate a lived experience directly to others through some art form: prose, poetry, painting… blogging. I think that for so many creative types like me, gardening elicits that very human desire to communicate what we’re experiencing precisely because it is not innately human; it awakens a connection to a more ancient sense of being a living thing, an organism not any more special than the rest, utterly entwined with the others that inhabit our very special home planet. In a time and place where that feeling is increasingly rare, where food comes to us in plastic packaging with ever-disheartening price tags after it’s been shipped some hulking distance and plucked from a biological monolith, it feels like a secret—almost forbidden—that, yes, food can be grown; yes, food is alive. Of course we want to tell each other about it. </p>
