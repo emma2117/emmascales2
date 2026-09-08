@@ -4,9 +4,8 @@ title:  "The need for farmer-forward sustainable livestock policy, not cheap for
 date:   2026-09-01 17:08:47 -0400
 categories: Science Policy in a SNAP
 ---
-![Image](/_images/cattle.png)
 *This article was originally published in [Science Policy in a SNAP](https://medium.com/science-policy-in-a-snap) via Medium, the blog of the [Scientist Network for Advancing Policy](snapcoalition.org). You can read this article on Medium [here](https://medium.com/science-policy-in-a-snap/the-lab-bench-under-fascism-a0183f21fac3) and subscribe to my Medium profile [here](https://medium.com/@emmascales) to be alerted of my future posts in Science Policy in a SNAP or other Medium publications.* 
-
+![Image](/_images/cattle.png)
 *Footnotes are denoted with superscript. References are denoted with brackets.*
 
 *TL; DR: Consumers’ woes are farmers’ woes. Radical approaches to agricultural policy that put farmers first can create room to incentivize the sustainable practices that already exist in livestock rearing but are currently suppressed by industry monopolies.*
@@ -17,7 +16,7 @@ Despite Trump’s goals, cattle producers in West Virginia, Iowa, Minnesota, Col
 
 Some environmental advocates may cheer the decline of the beef industry, due to longstanding narratives that the beef industry is an outsized driver of climate change. Could this seemingly rash Presidential Proclamation be a rare example of climate-forward policy from this administration? Is the consequent doom facing American cattle ranchers a blessing in disguise for stateside sustainability proponents? The reality of a future where sustainable agriculture fuels the nation and the policy it will take to get there is not so black and white.
 
-##Can cattle farming be truly sustainable?
+## Can cattle farming be truly sustainable?
 
 The view of cattle production as an innate major driver of climate change stems from an amalgamation of reports quantifying the global methane emissions from agriculture writ large [4,5] and the popularity of the straightforward explanation that a majority of these emissions come from cow burps. Methane is an extremely potent, yet relatively short-lived, greenhouse gas, and cattle do naturally produce more of it because of how they digest their food [6]. Estimates of exactly what portion of global methane emissions are produced by cattle specifically vary widely by scientific approach and metric, [5,7] and there is no clear consensus on which methodologies are most accurate or relevant for policymaking. As one example, several widely cited reports utilize Intergovernmental Panel on Climate Change (IPCC) Tier 1 methodologies, which use simple multiplication to estimate emissions metrics from country-level production data and standardized emissions factors for each sector. While useful for gathering a bird’s-eye view of emissions for global reports, these estimates are not appropriate for informing domestic agricultural policy decisions and advocacy efforts. Standardized global metrics can underestimate emissions for intensive industrial cattle farming operations and overestimate emissions for industry sectors using more mindful approaches, like regenerative grazing. 
 
@@ -31,7 +30,7 @@ Sustainable agriculture is about much more than greenhouse gas emissions: ecosys
 
 But with farmers’ costs rising and many hanging up their hats, what do farmers need to implement these strategies? How can policy come into play in getting new farmers into ag and implementing sustainable practices? 
 
-##The role of corporate consolidation & political betrayals
+## The role of corporate consolidation & political betrayals
 
 Contrary to what many consumers may believe, the unfortunate reality is that many of America’s cattle ranchers and other farmers raising livestock for meat processing or dairy do not have control over their practices in a meaningful way. In the beef industry, the top four processing companies—JBS, Cargill, Tyson Foods and National Beef—control 82% of cattle purchases [20]. Across the beef, pork, and poultry industry, a handful of companies control the market and do so by implementing a contract farming model: farmers purchase baby animals and feed from the company, raise them, and then sell them back to the same company who has already agreed to purchase them, though at a price they are often liable to change later. [21] The company can also mandate certain rearing practices that can pose huge financial burdens on farmers and prohibit them from trying out more sustainable practices. These companies implement predatory and abusive practices that pin farmers against each other, deliver sub-par feed and animals to farmers who have gotten on their bad side by speaking out or otherwise, and ultimately reduce independent farmers to at-will employees exempt from the protection of labor laws who also finance their corporate overlords. [21,22]
 
@@ -42,7 +41,7 @@ There have been moments of hope, largely quelled by the strength of corporate lo
 However, meatpackers and their favored congresspeople had other plans. Over the next two years, the proposed rules from Obama’s USDA were effectively killed by political maneuvering and demands for further reports of economic impact (eventually authored by meat lobbies). Both Republican and Democratic Representatives argued the rules, set to support independent farmers, failed to consider industry interests. [26] The coffin was hammered shut when the House Appropriations Committee passed a rider that stripped the USDA of the funds it would need to enforce any rule changes. A swing toward the Tea Party in the 2010 midterm elections and the subsequent shakeup in the Obama administration to cater to more centrist interests meant that the White House was absent. The USDA retreated, and the farmers and their advocates were left high and dry. [21]
 More recently, additional attempts to inject life into the farmer protections guaranteed by the Packers and Stockyards Act under President Biden were rescinded in July by the Trump administration. [27] Last year, Trump’s Department of Justice announced a plan to investigate the “Big Four” meatpacking companies that control most of the beef processing in the U.S.; though, a similar investigation with the same target was also announced in 2020 during Trump’s first turn that proved fruitless [28]. Just last week, Trump announced forthcoming “legal documents” that would allow ranchers and farmers to process their own animals, promising more details on Monday [29]. At the time of publication, no further details have been released. It is not clear whether he has the authority to make these changes, which existing regulations this action would target, or under which laws new rules may be applied. 
 
-##The fight to move toward a sustainable future
+## The fight to move toward a sustainable future
 
 As of today, the abuses of meatpackers remain uncontested in any meaningful way by the federal government. American farmers are still beholden to meatpacking companies and their practices to remain operational, unable to experiment with more sustainable solutions. Finally, consumers are feeling the rising costs farmers have been facing for decades. Imported beef is now proposed as a bandaid for grocery shoppers’ wallets ahead of the midterms alongside an ambiguous proposal for in-house processing for which many farmers may not have the resources. There is one silver lining, though unexpected: a possible shift toward buying local. 
 
